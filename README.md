@@ -2,8 +2,6 @@
 
 This is a simple Flutter application demonstrating a custom user interface using `Wrap`, `Container`, and basic styling. The app showcases a top bar and a responsive grid of four numbered boxes.
 
-## 📱 Screenshots
-
 <img width="368" alt="Screenshot 1446-11-08 at 11 41 23 AM" src="https://github.com/user-attachments/assets/c0b3e7c1-3352-4e58-9e69-8b90e343bec3" />
 
 
